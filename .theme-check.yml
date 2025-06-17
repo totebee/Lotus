@@ -1,4 +1,12 @@
 MatchingTranslations:
-  enabled: false
+  enabled: true
 TemplateLength:
-  enabled: false
+  enabled: true
+SchemaJsonFormat:
+  enabled: true
+RequiredLayoutThemeAppExtension:
+  enabled: true
+RequiredTemplateSections:
+  enabled: true
+RequiredThemeAppExtensions:
+  enabled: true
